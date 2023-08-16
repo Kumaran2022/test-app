@@ -1,0 +1,166 @@
+
+{
+    "page_sections": [
+      {
+        "page_section": "PS-23-00117",
+        "layout_json": [
+          {
+            "col": 12,
+            "width": "100%",
+            "u_id": "wcgkyzzp",
+            "components": [
+                {
+                    "cid": "5",
+                    "data": {
+                        "data": [{"title":"Title","content":"Content","image":"https://cdn.pixabay.com/photo/2016/12/19/22/15/ladybug-1919216_1280.jpg","button_name":"Button","idx":1},
+                        {"title":"Title","content":"Content","image":"https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg","button_name":"Button","idx":1}]
+                    },
+                    "component_type": "Slider With Image",
+                    "component_title": "Slider With Image"
+                }
+            ]
+          }
+        ],
+        "layout_id": "STL-0003",
+        "layout_type": "Regular Section",
+        "section_title": "One Column"
+      },
+      {
+        "page_section": "PS-23-00117",
+        "layout_json": [
+          {
+            "col": 6,
+            "width": "40%",
+            "u_id": "vobotwba",
+            "components": [
+              {
+                "cid": "5",
+                "image": "https://cdn.pixabay.com/photo/2016/12/19/22/15/ladybug-1919216_1280.jpg",
+                "component_type": "Image",
+                "component_title": "Image"
+              }
+            ]
+          },
+          {
+            "col": 6,
+            "width": "60%",
+            "u_id": "vobotwba",
+            "components": [
+              {
+                "cid": "5",
+                "title": "FAQ's",
+                "component_type": "Title",
+                "component_title": "Title"
+              },
+                {
+                    "cid": 2,
+                    "data":{
+                        "data": [{"title":"Question No 1","content":"Why are you born in this world?","idx":1},
+                        {"title":"Question No 1","content":"Why are you born in this world?","idx":1},
+                        {"title":"Question No 1","content":"Why are you born in this world?","idx":1}]
+                       
+                      },
+                    "component_type": "Accordion Style1",
+                    "component_title": "Accordion Style1"
+                }
+            ]
+          }
+        ],
+        "layout_id": "STL-0003",
+        "layout_type": "Regular Section",
+        "section_title": "One Column"
+      },
+      {
+        "page_section": "PS-23-00117",
+        "layout_json": [
+          {
+            "col": 6,
+            "width": "40%",
+            "u_id": "vobotwba",
+            "components": [
+              {
+                "cid": "5",
+                "image": "https://cdn.pixabay.com/photo/2016/12/19/22/15/ladybug-1919216_1280.jpg",
+                "component_type": "Image",
+                "component_title": "Image"
+              },
+              {
+                "cid": "5",
+                "data": {
+                  "data": [{"title":"Lorem ipsum","subtitle":"simply dummy text","content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s","image":"https://cdn.pixabay.com/photo/2016/12/19/22/15/ladybug-1919216_1280.jpg","button_name":"Button","idx":1},
+                  {"title":"Lorem ipsum","subtitle":"simply dummy text","content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s","image":"https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg","button_name":"Button","idx":1},
+                  {"title":"Lorem ipsum","subtitle":"simply dummy text","content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s","image":"https://cdn.pixabay.com/photo/2016/12/19/22/15/ladybug-1919216_1280.jpg","button_name":"Button","idx":1},
+                  {"title":"Lorem ipsum","subtitle":"simply dummy text","content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s","image":"https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg","button_name":"Button","idx":1},
+                  {"title":"Lorem ipsum","subtitle":"simply dummy text","content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s","image":"https://cdn.pixabay.com/photo/2016/12/19/22/15/ladybug-1919216_1280.jpg","button_name":"Button","idx":1},
+                  {"title":"Lorem ipsum","subtitle":"simply dummy text","content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s","image":"https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg","button_name":"Button","idx":1}]
+              },
+                "component_type": "Image",
+                "component_title": "Articles Type1"
+              }
+            ]
+          },
+          {
+            "col": 6,
+            "width": "40%",
+            "u_id": "vobotwba",
+            "components": [
+              {
+                "cid": "5",
+                "data": {
+                  "data": [{"title":"Lorem ipsum","subtitle":"simply dummy text","content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s","image":"https://cdn.pixabay.com/photo/2016/12/19/22/15/ladybug-1919216_1280.jpg","button_name":"Button","idx":1},
+                  {"title":"Lorem ipsum","subtitle":"simply dummy text","content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s","image":"https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg","button_name":"Button","idx":1},
+                  {"title":"Lorem ipsum","subtitle":"simply dummy text","content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s","image":"https://cdn.pixabay.com/photo/2016/12/19/22/15/ladybug-1919216_1280.jpg","button_name":"Button","idx":1},
+                  {"title":"Lorem ipsum","subtitle":"simply dummy text","content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s","image":"https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg","button_name":"Button","idx":1}]
+              },
+                "component_type": "Image",
+                "component_title": "Articles Type2"
+              }
+            ]
+          },
+          {
+            "col": 6,
+            "width": "20%",
+            "u_id": "vobotwba",
+            "components": [
+              {
+                "cid": "5",
+                "data": {
+                  "data": [{"title":"Lorem ipsum","subtitle":"simply dummy text","content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s","image":"https://cdn.pixabay.com/photo/2016/12/19/22/15/ladybug-1919216_1280.jpg","button_name":"Button","idx":1},
+                  {"title":"Lorem ipsum","subtitle":"simply dummy text","content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s","image":"https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg","button_name":"Button","idx":1},
+                  {"title":"Lorem ipsum","subtitle":"simply dummy text","content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s","image":"https://cdn.pixabay.com/photo/2016/12/19/22/15/ladybug-1919216_1280.jpg","button_name":"Button","idx":1},
+                  {"title":"Lorem ipsum","subtitle":"simply dummy text","content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s","image":"https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg","button_name":"Button","idx":1},
+                  {"title":"Lorem ipsum","subtitle":"simply dummy text","content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s","image":"https://cdn.pixabay.com/photo/2016/12/19/22/15/ladybug-1919216_1280.jpg","button_name":"Button","idx":1},
+                  {"title":"Lorem ipsum","subtitle":"simply dummy text","content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s","image":"https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg","button_name":"Button","idx":1}]
+              },
+                "component_type": "Image",
+                "component_title": "List With Header"
+              }
+            ]
+          }
+        ],
+        "layout_id": "STL-0003",
+        "layout_type": "Regular Section",
+        "section_title": "One Column"
+      }
+    ],
+    "cid": 3,
+    "title": "About Us",
+    "pages_list": [
+      {
+        "name": "About Us",
+        "route": "about-us"
+      },
+      {
+        "name": "Default Home Page",
+        "route": "default-home-page"
+      },
+      {
+        "name": "Privacy Policy",
+        "route": "privacy-policy"
+      },
+      {
+        "name": "Return Policy",
+        "route": "return-policy"
+      }
+    ]
+  }

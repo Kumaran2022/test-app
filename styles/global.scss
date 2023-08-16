@@ -1,0 +1,90 @@
+.webkit-text {
+    --line: 1;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: var(--line);
+    -webkit-box-orient: vertical;
+}
+.line-3{
+    --line: 3 !important;
+}
+.line-2{
+    --line: 2 !important;
+}
+.article{
+    margin: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #DCDCDC;
+    .title{
+        margin: 0px;
+        color: #e6373e;
+        font-weight: 600;
+        font-size: 14px;
+    }
+    .subtitle{
+        color: #999999;
+        font-weight: 600;
+        font-size: 14px;
+    }
+    .content{
+        font-size: 16px;
+        font-weight: 500;
+        margin: 0;
+        line-height: 1.2;
+    }
+    .posted_on{
+        font-size: 12px;
+        font-weight: 400;
+        margin: 0;
+        color: #999999;
+        line-height: 1.2;
+    }
+    .hashtag{
+        font-size: 12px;
+        font-weight: 600;
+        margin: 0;
+        line-height: 1.2;
+    }
+
+}
+.article1{
+    .content{
+        font-size: 18px;
+        font-weight: 500;
+        margin: 0;
+        line-height: 1.2;
+    }
+
+}
+// List With Header
+
+.slides{
+    display: flex;
+    overflow: auto;
+}
+
+
+
+
+
+
+.list_with_header{
+    .head_title{
+        font-size: 14px;
+        font-weight: 600;
+        margin-bottom: 10px;
+    }
+    .head_subtitle{
+        font-size: 12px;
+        font-weight: 500;
+        color: #999999;
+    }
+}
+.secondary_button{
+    background-color: #fff;
+    color: #999999;
+    border: 1px solid #EEEEEE;
+    padding: 2px 10px;
+    font-size: 12px;
+    border-radius: 20px;
+}
