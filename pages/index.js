@@ -6,7 +6,7 @@ export default function Home() {
   const router  = useRouter()
   return (
     <div>
-       <h1 className='text-3xl font-bold color-red underline'>Hello world</h1>
+       <h1 className='text-3xl font-bold color-red underline'>Hello world By Prem</h1>
        <div onClick={()=>router.push('/section-builder')}>
           builder
        </div>
